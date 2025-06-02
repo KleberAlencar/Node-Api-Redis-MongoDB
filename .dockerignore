@@ -1,0 +1,19 @@
+# .dockerignore
+node_modules
+
+# Ignore passwords file
+passwords.txt
+
+# Ignore logs directory
+logs/
+
+# Ignore the git and cache folders
+.git
+.cache
+
+# Ignore all markdown and class files
+*.md
+**/*.class
+
+# Ignore ISO images
+*.iso

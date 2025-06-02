@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Technology",
+    "description": "Latest gadgets, innovations, and tech trends.",
+    "featured": true,
+    "createdAt": "2025-06-01T10:30:00Z"
+  },
+  {
+    "name": "Health & Wellness",
+    "description": "Articles and products for a healthier lifestyle.",
+    "featured": true,
+    "createdAt": "2025-06-01T11:15:00Z"
+  },
+  {
+    "name": "Home & Kitchen",
+    "description": "Furniture, appliances, and decor for modern living.",
+    "featured": false,
+    "createdAt": "2025-06-01T12:00:00Z"
+  },
+  {
+    "name": "Fashion",
+    "description": "Trendy clothing, accessories, and styling guides.",
+    "featured": true,
+    "createdAt": "2025-06-01T13:45:00Z"
+  },
+  {
+    "name": "Gaming",
+    "description": "Consoles, games, and accessories for gamers.",
+    "featured": false,
+    "createdAt": "2025-06-01T14:30:00Z"
+  },
+  {
+    "name": "Books & Literature",
+    "description": "Popular books, reviews, and literary insights.",
+    "featured": true,
+    "createdAt": "2025-06-01T15:10:00Z"
+  },
+  {
+    "name": "Travel",
+    "description": "Destinations, tips, and essentials for explorers.",
+    "featured": false,
+    "createdAt": "2025-06-01T16:20:00Z"
+  },
+  {
+    "name": "Sports & Fitness",
+    "description": "Gear, workouts, and news for active lifestyles.",
+    "featured": true,
+    "createdAt": "2025-06-01T17:05:00Z"
+  }
+]

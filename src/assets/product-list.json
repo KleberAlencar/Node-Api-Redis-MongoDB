@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Wireless Headphones",
+    "slug": "wireless-headphones",
+    "description": "High-quality Bluetooth headphones with noise cancellation.",
+    "price": 129.99,
+    "active": true,
+    "tags": ["audio", "bluetooth", "noise-canceling", "wireless"]
+  },
+  {
+    "title": "Smartphone",
+    "slug": "smartphone",
+    "description": "Latest model with high-resolution display and powerful processor.",
+    "price": 899.99,
+    "active": true,
+    "tags": ["mobile", "technology", "touchscreen", "android"]
+  },
+  {
+    "title": "Gaming Laptop",
+    "slug": "gaming-laptop",
+    "description": "High-performance laptop designed for gaming and heavy workloads.",
+    "price": 1499.99,
+    "active": true,
+    "tags": ["gaming", "laptop", "performance", "graphics"]
+  },
+  {
+    "title": "Smartwatch",
+    "slug": "smartwatch",
+    "description": "Wearable device with health tracking and notifications.",
+    "price": 199.99,
+    "active": true,
+    "tags": ["wearable", "fitness", "health", "smartwatch"]
+  },
+  {
+    "title": "Electric Toothbrush",
+    "slug": "electric-toothbrush",
+    "description": "Rechargeable toothbrush with advanced cleaning technology.",
+    "price": 69.99,
+    "active": true,
+    "tags": ["oral care", "hygiene", "electric", "toothbrush"]
+  },
+  {
+    "title": "Portable Speaker",
+    "slug": "portable-speaker",
+    "description": "Compact speaker with deep bass and Bluetooth connectivity.",
+    "price": 89.99,
+    "active": true,
+    "tags": ["audio", "portable", "bluetooth", "speaker"]
+  },
+  {
+    "title": "Wireless Mouse",
+    "slug": "wireless-mouse",
+    "description": "Ergonomic mouse with responsive controls and wireless connectivity.",
+    "price": 49.99,
+    "active": true,
+    "tags": ["computer", "accessory", "wireless", "ergonomic"]
+  },
+  {
+    "title": "Coffee Maker",
+    "slug": "coffee-maker",
+    "description": "Automatic coffee maker with multiple brewing options.",
+    "price": 129.99,
+    "active": true,
+    "tags": ["kitchen", "coffee", "appliance", "automatic"]
+  },
+  {
+    "title": "Fitness Tracker",
+    "slug": "fitness-tracker",
+    "description": "Device to monitor steps, heart rate, and sleep patterns.",
+    "price": 79.99,
+    "active": true,
+    "tags": ["health", "fitness", "wearable", "tracking"]
+  },
+  {
+    "title": "E-Reader",
+    "slug": "e-reader",
+    "description": "Lightweight device for reading e-books with long battery life.",
+    "price": 149.99,
+    "active": true,
+    "tags": ["reading", "books", "digital", "tablet"]
+  }
+]
