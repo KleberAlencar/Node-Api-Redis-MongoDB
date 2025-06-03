@@ -3,7 +3,7 @@
 const redis = require('redis');
 
 const redisClient = redis.createClient({
-  url: process.env.REDIS_URL || 'redis://:p@$$w0rd#@127.0.0.1:6379'
+  url: process.env.REDIS_URL || 'redis://:secret123456@127.0.0.1:6379'
 });
 
 (async () => {

@@ -14,3 +14,15 @@ Node API performing CRUD operations on a MongoDB database and to optimize perfor
 6. Cache-Aside Pattern with TTL;
 7. JWT Authentication;
 8. Express-Validator for data validation.
+
+## How to execute with Terminal:
+
+1. npm install
+2. docker-compose up -d
+
+## Examples of available endpoints:
+
+- http://localhost:3000/categories
+- http://localhost:3000/products
+- http://localhost:3000/customers
+- http://localhost:3000/orders
